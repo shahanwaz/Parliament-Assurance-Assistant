@@ -1,0 +1,10 @@
+{
+  "description": "Streamlines parliamentary question assessments with interactive collapsible cards, enabling efficient review, feedback, and draft answer management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
